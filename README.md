@@ -1,3 +1,4 @@
-ÀÌ°÷Àº tree ÀÚ·á±¸Á¶¸¦ Àü¹İÀûÀ¸·Î Á¤¸®ÇÑ repositoryÀÔ´Ï´Ù.
+#
+ì´ê³³ì€ tree ìë£Œêµ¬ì¡°ë¥¼ ì „ë°˜ì ìœ¼ë¡œ ì •ë¦¬í•œ repositoryì…ë‹ˆë‹¤.
 
-[¾ÆÇü btree](./B-Tree/ah_btree.md)
+[ì•„í˜• btree](./B-Tree/ah_btree.md)
